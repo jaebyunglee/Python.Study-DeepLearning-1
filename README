@@ -1,3 +1,1 @@
-# 그래프에 한글 추가를 위해 맑은고딕체로 변경
-import matplotlib
-matplotlib.rcParams['font.family'] = 'Malgun Gothic'
+
